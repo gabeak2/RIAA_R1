@@ -1,0 +1,1 @@
+RIAA Preamp for MM cartridge, copied out of Douglas Self's book with minor modifications. Powered directly off mains (obviously with xfmr and linear regs) so yeah don't make this or use it or even think about it.
